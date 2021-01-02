@@ -1,0 +1,100 @@
+header nav ul {
+    display: flex;
+    justify-content: space-between;
+    width: 100vh;
+    margin: 0 auto;
+    background-color: #e0f6ed;
+    padding: 25px;
+    border-radius: 4px;
+}
+
+header nav ul li {
+    display: inline;
+}
+
+header nav ul li a {
+    color: black;
+    font-size: 24px;
+    text-decoration: none;
+}
+
+div {
+    width:1000px;
+    margin:0 auto;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+#inleidingkop {
+	font-size: 36px;
+	line-height: 36px;
+	font-family: 'Roboto', sans-serif;
+	font-weight: bold;	
+}
+
+#inleidingstekst {
+	font-size: 24px;
+	line-height: 32px;
+	font-family: 'Roboto', sans-serif;
+}
+
+#koppen1 {
+	font-size: 32px;
+	line-height: 32px;
+	font-family: 'Roboto', sans-serif;
+	font-weight: bold;
+}
+
+#koppen2 {
+	font-size: 32px;
+	line-height: 32px;
+	font-family: 'Roboto', sans-serif;
+	font-weight: bold;
+}
+
+#tip {
+	font-size: 20px;
+	font-family: 'Roboto', sans-serif;
+	font-weight: bold;
+	float:left;
+	background-color: #def6ed;
+	padding: 25px;
+	border-radius: 4px
+}
+
+#tiptekst {
+	font-size: 20px;
+	font-family: 'Roboto', sans-serif;
+	float:left;
+	background-color: #def6ed;
+	padding: 25px;
+	border-radius: 4px
+}
+
+#ul li {
+	font-size: 20px;
+	line-height: 26px;
+	font-family: 'Roboto', sans-serif;
+	margin-bottom: 10px;
+}
+
+#ol li {
+	font-size: 20px;
+	line-height: 26px;
+	font-family: 'Roboto', sans-serif;
+	margin-bottom: 20px;
+}
+
+#menu li {
+	font-size: 30px;
+	font-family: 'Roboto', sans-serif;
+}
+
+ul {
+    margin-bottom: 40px;
+}
+
+ol {
+    margin-bottom: 40px;
+}
+
